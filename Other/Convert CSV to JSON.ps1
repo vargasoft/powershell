@@ -1,12 +1,8 @@
-﻿# SoLiMaT Postman Script
-
-#artjom.wach@telekom.de
-#07.02.2022
+﻿
 ################################################
 #short ps convert csv to json for postman
 ################################################
 
-#used for: CR728
 
 #VARIABLES
 
